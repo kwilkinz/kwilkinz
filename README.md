@@ -7,7 +7,7 @@ Front End and UX Developer
 *   🌍  I'm based in Texas! 
 *   🖥️  See my portfolio at [My Portfolio](https://kwilkinz.github.io/).
 *   🔭  I'm currently working on [Techy Tips Blog](https://github.com/kwilkinz/TechyTips_blog).
-*   🌱  I'm learning the Airtable API.
+*   🌱  I'm learning Figma.
 *   🤔  I’m looking for help with: backend of blog, working with Multer and uploading images.  
 *   ⚡   In the works of writing a book!
 
