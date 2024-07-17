@@ -1,12 +1,10 @@
-Hey 👋 ... My name is Keri 
+Hey There, I'm Keri 
 =============================
 
-Front End and UX Developer
+Front End and UX Developer 
 --------------------------
 
-*   🌍  I'm based in Texas! 
-*   🖥️  See my portfolio at [My Portfolio](https://kwilkinz.github.io/).
-*   🔭  I have a blog here at [Techy Tips Blog](https://github.com/kwilkinz/TechyTips_blog).
+*   🌍  I'm based in Texas!
 
 ### Skills
 
